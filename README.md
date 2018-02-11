@@ -1,14 +1,14 @@
 # CTF-Education
-It is about CTF training and education (Reference from here: http://captf.com/practice-ctf/)
-
-Recommended
-http://pwnable.tw/ (a newer set of high quality pwnable challenges)
-http://pwnable.kr/ (one of the more popular recent wargamming sets of challenges)
-https://picoctf.com/ (Designed for high school students while the event is usually new every year, it's left online and has a great difficulty progression)
-https://microcorruption.com/login (one of the best interfaces, a good difficulty curve and introduction to low-level reverse engineering, specifically on an MSP430)
-http://ctflearn.com/ (a new CTF based learning platform with user-contributed challenges)
-http://reversing.kr/
-http://hax.tor.hu/
+It is about CTF training and education (Reference from here: http://captf.com/practice-ctf/)__
+__
+Recommended__
+http://pwnable.tw/ (a newer set of high quality pwnable challenges)__
+http://pwnable.kr/ (one of the more popular recent wargamming sets of challenges)__
+https://picoctf.com/ (Designed for high school students while the event is usually new every year, it's left online and has a great difficulty progression)__
+https://microcorruption.com/login (one of the best interfaces, a good difficulty curve and introduction to low-level reverse engineering, specifically on an MSP430)__
+http://ctflearn.com/ (a new CTF based learning platform with user-contributed challenges)__
+http://reversing.kr/__
+http://hax.tor.hu/__
 https://w3challs.com/
 https://pwn0.com/
 https://io.netgarage.org/

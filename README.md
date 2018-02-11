@@ -1,27 +1,27 @@
 # CTF-Education
-It is about CTF training and education (Reference from here: http://captf.com/practice-ctf/)__
-__
-Recommended__
-http://pwnable.tw/ (a newer set of high quality pwnable challenges)__
-http://pwnable.kr/ (one of the more popular recent wargamming sets of challenges)__
-https://picoctf.com/ (Designed for high school students while the event is usually new every year, it's left online and has a great difficulty progression)__
-https://microcorruption.com/login (one of the best interfaces, a good difficulty curve and introduction to low-level reverse engineering, specifically on an MSP430)__
-http://ctflearn.com/ (a new CTF based learning platform with user-contributed challenges)__
-http://reversing.kr/__
-http://hax.tor.hu/__
-https://w3challs.com/
-https://pwn0.com/
-https://io.netgarage.org/
-http://ringzer0team.com/
-http://www.hellboundhackers.org/
-http://www.overthewire.org/wargames/
-http://counterhack.net/Counter_Hack/Challenges.html
-http://www.hackthissite.org/
-http://vulnhub.com/
-http://ctf.komodosec.com
+It is about CTF training and education (Reference from here: http://captf.com/practice-ctf/)<br />
+<br />
+Recommended <br />
+http://pwnable.tw/ (a newer set of high quality pwnable challenges)<br />
+http://pwnable.kr/ (one of the more popular recent wargamming sets of challenges) <br />
+https://picoctf.com/ (Designed for high school students while the event is usually new every year, it's left online and has a great difficulty progression)<br />
+https://microcorruption.com/login (one of the best interfaces, a good difficulty curve and introduction to low-level reverse engineering, specifically on an MSP430) <br />
+http://ctflearn.com/ (a new CTF based learning platform with user-contributed challenges)<br />
+http://reversing.kr/ <br />
+http://hax.tor.hu/ <br />
+https://w3challs.com/ <br />
+https://pwn0.com/ <br />
+https://io.netgarage.org/ <br />
+http://ringzer0team.com/ <br />
+http://www.hellboundhackers.org/ <br />
+http://www.overthewire.org/wargames/ <br />
+http://counterhack.net/Counter_Hack/Challenges.html <br />
+http://www.hackthissite.org/<br />
+http://vulnhub.com/<br />
+http://ctf.komodosec.com <br />
 
 
-Others
+Others <br />
 https://www.onlinectf.com/challenges/
 https://backdoor.sdslabs.co/
 http://smashthestack.org/wargames.html
@@ -34,13 +34,13 @@ http://net-force.nl/
 http://securityoverride.org/ Some good concepts, but "canned" vulnerabilities (string matching on input) will frustrate knowledgable hackers and teach newbies the wrong lessons
 
 
-Meta
+Meta <br />
 http://www.wechall.net/sites.php (excellent list of challenge sites)
 http://ctf.forgottensec.com/wiki/ (good CTF wiki, though focused on CCDC)
 http://repo.shell-storm.org/CTF/ (great archive of CTFs)
 
 
-Webapp Specific
+Webapp Specific <br />
 http://demo.testfire.net/
 http://wocares.com/xsstester.php
 http://crackme.cenzic.com/
@@ -48,36 +48,36 @@ http://test.acunetix.com/
 http://zero.webappsecurity.com/
 
 
-Forensics Specific
+Forensics Specific <br />
 http://computer-forensics.sans.org/community/challenges
 http://computer-forensics.sans.org/community/challenges
 http://forensicscontest.com/
 
 
-Recruiting
+Recruiting <br />
 https://www.praetorian.com/challenges/pwnable/
 http://rtncyberjobs.com/
 http://0x41414141.com/
 
 
-Paid Training
+Paid Training <br />
 http://heorot.net/
 
 
 
-Downloadable Offline Games
+Downloadable Offline Games <br />
 http://www.badstore.net/
 http://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
 http://www.owasp.org/index.php/Owasp_SiteGenerator
 
 
-Damn Vulnerable Web App
+Damn Vulnerable Web App <br />
 Stanford SecureBench
 Stanford SecureBench Micro
 http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10
 
 
-Virtual Machines
+Virtual Machines <br />
 https://pentesterlab.com/exercises/
 http://sourceforge.net/projects/metasploitable/files/Metasploitable2/
 
